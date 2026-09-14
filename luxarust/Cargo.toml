@@ -4,5 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-luxarust_render = { version = "0.1.0", path = "../luxarust_render" }
 winit = "0.30.13"
