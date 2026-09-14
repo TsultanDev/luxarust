@@ -1,0 +1,10 @@
+[application]
+name = "Luxarust"
+version = { major = 0, minor = 1, patch = 0 }
+
+[window]
+title = "Luxarust Engine"
+width = 600
+height = 600
+maximized = false
+resizable = false

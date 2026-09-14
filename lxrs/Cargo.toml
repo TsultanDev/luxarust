@@ -5,4 +5,6 @@ edition = "2024"
 
 [dependencies]
 ash = "0.38.0"
-serde = "1.0.229"
+ash-window = "0.13.0"
+serde = { version = "1.0.229", features = ["derive"] }
+toml = "0.8"
