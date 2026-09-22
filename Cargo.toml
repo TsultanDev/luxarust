@@ -1,4 +1,4 @@
 
 [workspace]
-members = ["application", "luxarust", "lxrs"]
+members = ["crates/application", "crates/luxarust"]
 resolver = "3"
